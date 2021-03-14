@@ -1,4 +1,4 @@
-# BCI_Connectivity
+# Read Me: BCI_Connectivity
 
   This readme document describes software codes which have been developed under support from the National Institutes of Health via grants NIH AT009263, EB008389, EB029354, MH114233, and NS096761. The source codes are provided as a service to the scientific community and may be used for any non-commercial purposes. Users should use the codes or data at their own risks with no guarantees provided, as is. If anyone should use the codes provided here in its entirety or partially, we ask them to cite the following publication in any of their publications or presentations:
 
