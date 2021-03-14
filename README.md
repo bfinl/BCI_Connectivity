@@ -10,6 +10,6 @@ This program is a free software for academic research: you can redistribute it a
  This folder contains the codes and one sample data in the manuscript.In order to run the code, you need to install the fiedltrip toolbox (https://www.fieldtriptoolbox.org/). The file called “Demo_Example.m” summarizes the pipeline for generating an example. This file calls 4 other main scripts as follows:
 
   --- Behavior_Down_Analysis.m (Calculate behavior in the down BCI conditon)  
-  --- Sensor_Spectral_Analysis.m (Calculate Spectral power at the sensor level);
-  --- Source_Power_Analysis.m (Calculate 9-15 Hz alpha activity source with DICS); 
-  --- Source_Connectivity_Analysis.m (Calculate 9-15 Hz alpha source connectivity with power orthoganaion correation); 
+  --- Sensor_Spectral_Analysis.m (Calculate Spectral power at the sensor level)
+  --- Source_Power_Analysis.m (Calculate 9-15 Hz alpha activity source with DICS)
+  --- Source_Connectivity_Analysis.m (Calculate 9-15 Hz alpha source connectivity with power orthoganaion correation) 
