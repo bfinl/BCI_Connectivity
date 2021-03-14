@@ -7,7 +7,7 @@
 
    This program is a free software for academic research: you can redistribute it and/or modify it for non-commercial uses, under the license terms provided in LICENSE.MD in this GitHub repository. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the License for more details. This program is for research purposes only. This program CAN NOT be used for commercial purposes. This program SHOULD NOT be used for medical purposes. The authors WILL NOT be responsible for using the program in medical conditions.
 
-  This folder contains the codes and one sample data in the manuscript.In order to run the code, you need to install the fiedltrip toolbox (https://www.fieldtriptoolbox.org/). The file called “Demo_Example.m” summarizes the pipeline for generating an example. This file calls 4 other main scripts as follows:
+  This folder contains the codes and one sample data in the manuscript. In order to run the code, you need to install the fiedltrip toolbox (https://www.fieldtriptoolbox.org/). The file called “Demo_Example.m” summarizes the pipeline for generating an example. This file calls 4 other main scripts as follows:
 
   --- Behavior_Down_Analysis.m (Calculate behavior in the down BCI conditon) 
   
